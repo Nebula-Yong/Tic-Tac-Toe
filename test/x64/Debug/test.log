@@ -1,0 +1,10 @@
+﻿  源.cpp
+D:\桌面\test\test\源.cpp(85,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\桌面\test\test\源.cpp(86,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\桌面\test\test\源.cpp(73,21): warning C4101: “y2”: 未引用的局部变量
+D:\桌面\test\test\源.cpp(73,15): warning C4101: “y1”: 未引用的局部变量
+D:\桌面\test\test\源.cpp(73,12): warning C4101: “x1”: 未引用的局部变量
+D:\桌面\test\test\源.cpp(71,10): warning C4101: “j”: 未引用的局部变量
+D:\桌面\test\test\源.cpp(71,7): warning C4101: “i”: 未引用的局部变量
+D:\桌面\test\test\源.cpp(73,18): warning C4101: “x2”: 未引用的局部变量
+  test.vcxproj -> D:\桌面\test\x64\Debug\test.exe
